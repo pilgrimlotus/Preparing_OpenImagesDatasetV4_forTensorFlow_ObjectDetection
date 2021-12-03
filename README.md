@@ -1,1 +1,3 @@
 # Preparing_OpenImagesDatasetV4_forTensorFlow_ObjectDetection
+
+OpenImagesV4で特定クラスのデータをデータ数を指定してダウンロードする方法。
